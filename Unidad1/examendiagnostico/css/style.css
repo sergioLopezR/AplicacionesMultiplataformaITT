@@ -1,0 +1,22 @@
+.pantalla {
+    background-color: black;
+}
+
+.login {
+     color: white;
+}
+
+.div-login{
+    text-align: center;
+    background-color: dimgrey;
+    margin: auto;
+}
+
+.tabla{
+    margin: auto;
+    background-color: wheat;
+}
+
+.div-numero{
+    margin-bottom: 20px;
+}
